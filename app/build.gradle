@@ -34,7 +34,7 @@ android {
         viewBinding true
     }
     defaultConfig {
-        manifestPlaceholders = [MAPS_API_KEY: "AIzaSyDQeraeLb4q84LV7N89aFRmfAShmr_cfWM"]
+        manifestPlaceholders = [MAPS_API_KEY: "AQUI VA TU KEY DE GOOGLE MAPS"]
     }
 }
 
